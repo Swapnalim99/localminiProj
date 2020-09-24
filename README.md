@@ -1,0 +1,2 @@
+# localminiProj
+miniProjectFullStack
